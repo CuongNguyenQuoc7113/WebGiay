@@ -77,7 +77,8 @@ Once both the backend and frontend servers are running, the application can be a
 
 
 - **Proceed to payment:**
-![Proceed to payment]![image](https://github.com/user-attachments/assets/b40fd319-c151-41ab-a7e4-414c7aa9f0d9)
+![Proceed to payment]![image](https://github.com/user-attachments/assets/73dd2ec8-7003-41be-a802-545bc5e63519)
+
 
 
 
