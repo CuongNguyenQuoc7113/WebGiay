@@ -47,7 +47,7 @@ This **Shoe Store Website** is a full-stack web application designed to streamli
 Once both the backend and frontend servers are running, the application can be accessed via the browser at http://localhost:3000. Below are some screenshots of the key features:
 
 - **Home Page:**
-![Home Page](![1](https://github.com/user-attachments/assets/e7e7eb55-a3b4-4b3c-9446-e170c1fabb4f))
+![Home Page]![1](https://github.com/user-attachments/assets/e7e7eb55-a3b4-4b3c-9446-e170c1fabb4f)
 
 
 
